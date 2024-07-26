@@ -14,4 +14,4 @@ Data Science: Python (Pandas, Matplotlib), MATLAB
 
 Databases: SQL, Oracle, MongoDB
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITCCANIS)](https://github.com/anuraghazra/github-readme-stats)
