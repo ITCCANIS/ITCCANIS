@@ -10,6 +10,8 @@ Front-end Development: HTML, CSS, JavaScript, React, React Native
 
 Back-end Development: PHP, Laravel
 
-Databases: SQL, Oracle, MongoDB
 Data Science: Python (Pandas, Matplotlib), MATLAB
+
+Databases: SQL, Oracle, MongoDB
+
 
