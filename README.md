@@ -8,7 +8,7 @@ Technical Skills
 
 Front-end Development: HTML, CSS, JavaScript, React, React Native
 
-Back-end Development: PHP, Laravel
+Back-end Development: PHP, Laravel, Expressjs
 
 Data Science: Python (Pandas, Matplotlib), MATLAB
 
